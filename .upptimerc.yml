@@ -10,16 +10,19 @@ sites:
     url: https://shuttleflow.io
   - name: Conflux Netowrk
     url: https://confluxnetwork.org
+  - name: Conflux Bounty
+    url: https://bounty.conflux-chain.org
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
+  theme: dark
   baseUrl: /upt
   logoUrl: https://raw.githubusercontent.com/ConfluxBot/upt/master/assets/2021-03-25_10-34-02_conflux-logo-min.png
   name: Conflux UPT
   introTitle: "**Conflux UTP**"
-  # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: ""
   navbar:
     - title: Status
       href: /
