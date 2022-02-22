@@ -12,6 +12,16 @@ sites:
     url: https://confluxnetwork.org
   - name: Conflux Bounty
     url: https://bounty.conflux-chain.org
+  - name: Fluent Doc Site
+    url: https://conflux-chain.github.io/fluent-wallet-doc/
+  - name: Fluent Basic Demo
+    url: https://dapp-demo.fluentwallet.dev/
+  - name: Fluent EVM Space Dev
+    url: https://evm.fluentwallet.dev/
+  - name: Fluent EVM Space Prod
+    url: https://evm.fluentwallet.com/
+  - name: Conflux Governance
+    url: https://governance.confluxnetwork.org/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -21,7 +31,7 @@ status-website:
   baseUrl: /upt
   logoUrl: https://raw.githubusercontent.com/ConfluxBot/upt/master/assets/2021-03-25_10-34-02_conflux-logo-min.png
   name: Conflux UPT
-  introTitle: "**Conflux UTP**"
+  introTitle: "**Conflux UPT**"
   introMessage: ""
   navbar:
     - title: Status
