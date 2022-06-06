@@ -14,12 +14,16 @@ sites:
     url: https://bounty.conflux-chain.org
   - name: Fluent Doc Site
     url: https://conflux-chain.github.io/fluent-wallet-doc/
+    assignees:
+      - ConfluxBot
   - name: Fluent Basic Demo
     url: https://dapp-demo.fluentwallet.dev/
-  - name: Fluent EVM Space Dev
-    url: https://evm.fluentwallet.dev/
-  - name: Fluent EVM Space Prod
-    url: https://evm.fluentwallet.com/
+    assignees:
+      - ConfluxBot
+  - name: Conflux Hub
+    url: https://confluxhub.io
+    assignees:
+      - ConfluxBot
   - name: Conflux Governance
     url: https://governance.confluxnetwork.org/
 
