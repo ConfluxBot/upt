@@ -1,6 +1,7 @@
 # Change these first
 owner: ConfluxBot # Your GitHub username
 repo: upt # Your GitHub repository name
+user-agent: ConfluxBot
 
 # Add your sites here
 sites:
