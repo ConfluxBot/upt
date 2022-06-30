@@ -1,7 +1,7 @@
 url: https://dapp-demo.fluentwallet.dev/
-status: up
-code: 200
-responseTime: 129
-lastUpdated: 2022-06-30T09:36:45.501Z
+status: down
+code: 403
+responseTime: 108
+lastUpdated: 2022-06-30T09:48:10.964Z
 startTime: Tue Feb 22 2022 11:09:30 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
